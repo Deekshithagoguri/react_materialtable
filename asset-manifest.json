@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react_materialtable/static/css/main.a617e044.chunk.css",
+    "main.js": "/react_materialtable/static/js/main.363937e1.chunk.js",
+    "main.js.map": "/react_materialtable/static/js/main.363937e1.chunk.js.map",
+    "runtime-main.js": "/react_materialtable/static/js/runtime-main.0690ecfe.js",
+    "runtime-main.js.map": "/react_materialtable/static/js/runtime-main.0690ecfe.js.map",
+    "static/js/2.d312bb5b.chunk.js": "/react_materialtable/static/js/2.d312bb5b.chunk.js",
+    "static/js/2.d312bb5b.chunk.js.map": "/react_materialtable/static/js/2.d312bb5b.chunk.js.map",
+    "static/js/3.ce43a57d.chunk.js": "/react_materialtable/static/js/3.ce43a57d.chunk.js",
+    "static/js/3.ce43a57d.chunk.js.map": "/react_materialtable/static/js/3.ce43a57d.chunk.js.map",
+    "static/js/4.3619ef09.chunk.js": "/react_materialtable/static/js/4.3619ef09.chunk.js",
+    "static/js/4.3619ef09.chunk.js.map": "/react_materialtable/static/js/4.3619ef09.chunk.js.map",
+    "static/js/5.bdfade93.chunk.js": "/react_materialtable/static/js/5.bdfade93.chunk.js",
+    "static/js/5.bdfade93.chunk.js.map": "/react_materialtable/static/js/5.bdfade93.chunk.js.map",
+    "static/js/6.706a83af.chunk.js": "/react_materialtable/static/js/6.706a83af.chunk.js",
+    "static/js/6.706a83af.chunk.js.map": "/react_materialtable/static/js/6.706a83af.chunk.js.map",
+    "index.html": "/react_materialtable/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react_materialtable/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d312bb5b.chunk.js.LICENSE.txt": "/react_materialtable/static/js/2.d312bb5b.chunk.js.LICENSE.txt",
+    "static/js/3.ce43a57d.chunk.js.LICENSE.txt": "/react_materialtable/static/js/3.ce43a57d.chunk.js.LICENSE.txt",
+    "static/js/4.3619ef09.chunk.js.LICENSE.txt": "/react_materialtable/static/js/4.3619ef09.chunk.js.LICENSE.txt",
+    "static/js/5.bdfade93.chunk.js.LICENSE.txt": "/react_materialtable/static/js/5.bdfade93.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_materialtable/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0690ecfe.js",
+    "static/js/2.d312bb5b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.363937e1.chunk.js"
+  ]
+}
